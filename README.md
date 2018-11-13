@@ -1,5 +1,5 @@
 # Read me for artoolkitX
-
+本项目与 https://github.com/artoolkitx/artoolkitx 保持同步。使文档中文化，提供一个中文交流环境和中文化服务。谢谢
 ## Build state
 
 | macos | iOS | Android | Linux | Windows |
